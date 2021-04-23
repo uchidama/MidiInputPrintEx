@@ -26,7 +26,6 @@ MIDI_InputExAudioProcessorEditor::~MIDI_InputExAudioProcessorEditor()
 void MIDI_InputExAudioProcessorEditor::setString(juce::String str)
 {
     m_str = str;
-    repaint();
 }
 
 

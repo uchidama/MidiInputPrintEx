@@ -187,6 +187,7 @@ void MIDI_InputExAudioProcessor::processBlock (juce::AudioBuffer<float>& buffer,
 	
     MIDI_InputExAudioProcessorEditor * pEditor = reinterpret_cast<MIDI_InputExAudioProcessorEditor *>(this->getActiveEditor());
     pEditor->setString(str);
+    pEditor->repaint();
     
 }
 

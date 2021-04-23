@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="oO1cDM" name="MIDI_InputEx" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginCharacteristicsValue="pluginWantsMidiIn">
+              pluginCharacteristicsValue="pluginWantsMidiIn" pluginManufacturer="uchidama">
   <MAINGROUP id="FqaqNR" name="MIDI_InputEx">
     <GROUP id="{7D72CE65-FA04-FE4F-B553-E004E2874358}" name="Source">
       <FILE id="Ci1tJh" name="PluginProcessor.cpp" compile="1" resource="0"
